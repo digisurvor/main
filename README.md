@@ -4,7 +4,7 @@
 
 [General Documents]
 
-[Data and Code]
+[Data and Code](https://digisurvor.github.io/data_and_code/)
 
 [Workshop 1](https://digisurvor.github.io/workshop_1/)
 
